@@ -18,8 +18,6 @@ public class MainActivity extends AppCompatActivity {
     private static final int base_price = 40;
     private static final int chocolate_topping = 15;
     private static final int dry_fruit_topping = 60;
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
